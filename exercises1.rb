@@ -1,6 +1,6 @@
 =begin
 As atividades estão separadas em blocos, caso queira verificar o código em funcionamento,
-é só retirar o "=end" do final da atividade expecífica e colocar abaixo da descrição do exercício.
+é só retirar o "= end" do final da atividade expecífica e colocar abaixo da descrição do exercício.
 =end
 
 
